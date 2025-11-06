@@ -1,0 +1,14 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+requests==2.31.0
+sentence-transformers==2.2.2
+transformers==4.32.0
+huggingface-hub==0.25.2
+chromadb==0.5.3
+tiktoken==0.5.1
+pydantic==2.5.0
+python-multipart==0.0.6
+torch==2.0.1
+numpy<2
